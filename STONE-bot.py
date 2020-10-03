@@ -83,4 +83,4 @@ async def play(ctx):
    if u_count ==p_count :
       await ctx.send("Oopss ..its a tie.....")
 
-client.run("NzQxNjE4NzQxMzgwMzgyNzky.Xy6MRg.BhujsDqE1B8DOyqnOl3sLYX-YwI")
+client.run("<Token>")
